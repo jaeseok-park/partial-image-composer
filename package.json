@@ -1,0 +1,17 @@
+{
+  "name": "partial-image-composer",
+  "version": "0.1.0",
+  "description": "The utility to compose partial images to x, y on a black image.",
+  "main": "index.js",
+  "repository": "https://github.com/jaeseok-park/partial-image-composer.git",
+  "author": "Anselmo <anselmo@cotconnected.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.11.5"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "canvas": "^1.6.12",
+    "lodash": "^4.17.11"
+  }
+}
