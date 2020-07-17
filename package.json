@@ -12,6 +12,6 @@
   "dependencies": {
     "async": "^2.6.1",
     "canvas": "^1.6.12",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   }
 }
