@@ -10,7 +10,7 @@
     "node": ">=6.11.5"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "canvas": "^1.6.12",
     "lodash": "^4.17.11"
   }
